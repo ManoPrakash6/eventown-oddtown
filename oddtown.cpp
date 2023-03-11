@@ -1,12 +1,13 @@
-/** Oddtown C++ Program
-  @author: Mano Prakash P
-  Oddtown Problem (Problem Description):
-    The N residents of Oddtown love forming clubs and would like to maximize the number of them.
-    However, the club-forming traditions in Oddtown are as follows:
-    1. The number of people in each club must be odd.
-    2. The number of people shared by any two clubs remains even.
-  @param - Given input N (Number of people in the odd-town)
-  @out
+/**
+* Oddtown C++ Program
+* @author : Mano Prakash P
+* @brief  : Oddtown Problem (Problem Description):
+*   The N residents of Oddtown love forming clubs and would like to maximize the number of them.
+*   However, the club-forming traditions in Oddtown are as follows:
+*   1. The number of people in each club must be odd.
+*   2. The number of people shared by any two clubs remains even.
+* @param  : Given input N (Number of people in the odd-town).
+* @return : All possible 7-member club in an oddtown of N people.
 **/
 
 // Include necessary header files
